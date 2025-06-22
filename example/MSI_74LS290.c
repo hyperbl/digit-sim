@@ -1,6 +1,6 @@
 // 74LS290 计数器模拟，8421 输出
 #include <stdio.h>
-#include "digit_sim.h"
+#include "sequential.h"
 
 void clkB_update(Clock * clk);
 
